@@ -32,7 +32,7 @@ div{
    align-items: center;
  
 }
-.inputOne,.inputTwo{
+input {
     padding:20px;
     border-radius: 12px;
     border: none;
@@ -56,6 +56,8 @@ button {
     border: none;
     cursor: pointer;
     font-size: 25px;
+    margin-bottom:12px;
+    background-color: #73fa4a;
     
    
 }
